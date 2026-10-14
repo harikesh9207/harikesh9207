@@ -1,81 +1,90 @@
 <div align="center">
 
-# Hi, I'm Harikesh 👋
+# Harikesh
 
-### Java Backend Developer · Spring Boot · REST APIs · PostgreSQL
+**Java Backend Developer** · Spring Boot · REST APIs · PostgreSQL
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Building+clean+REST+APIs+with+Spring+Boot;Turning+ideas+into+full-stack+products;Always+learning%2C+always+shipping)](https://github.com/harikesh9207)
+> Turning ideas into working software, one commit at a time.
 
-<p>
-  <a href="https://www.linkedin.com/in/harikesh-hari-687b44282"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:harikeshhari009@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-</p>
+<a href="https://github.com/harikesh9207"><img src="https://img.shields.io/badge/GitHub-@harikesh9207-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+<br>
+
+<img src="https://img.shields.io/github/followers/harikesh9207?style=for-the-badge&logo=github&labelColor=161b22&color=30363d" alt="Followers">
+<img src="https://img.shields.io/github/stars/harikesh9207?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=161b22&color=30363d" alt="Stars">
+<img src="https://img.shields.io/badge/Repos-4-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repos">
+<img src="https://img.shields.io/badge/Location-Kerala%2C%20India-161b22?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+<img src="https://img.shields.io/badge/Company-diviso%20softtech-161b22?style=for-the-badge&logo=briefcase&logoColor=white" alt="Company">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I'm a Java developer with about 2 years of hands-on experience building backend systems. I like clean architecture, readable code, and APIs that are easy to work with.
-
-- 💼 Java Developer at **diviso softtech**
+- 💼 Java Developer at **diviso softtech**, about 2 years of experience
 - 🚀 Built **SpotFix**, a civic issue platform, from Spring Boot backend to React/Next.js frontend
-- 🎓 Currently working through **CS50x** from Harvard
+- 🎓 Working through **CS50x** from Harvard
 - 🌱 Learning Spring Security, JWT authentication and Docker
-- 🤝 Open to collaborating on interesting projects
+- 🤝 Open to Java backend roles and collaboration
 
 ---
 
-## 🛠️ Tech Stack
+### 💻 Tech Stack
 
-**Backend**
+- **Languages:**<br>
+  ![Java](https://img.shields.io/badge/-Java-161b22?style=flat&logo=openjdk&logoColor=ED8B00)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-161b22?style=flat&logo=typescript&logoColor=3178C6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=flat&logo=javascript&logoColor=F7DF1E)
+  ![SQL](https://img.shields.io/badge/-SQL-161b22?style=flat&logo=postgresql&logoColor=4169E1)
+  ![HTML5](https://img.shields.io/badge/-HTML5-161b22?style=flat&logo=html5&logoColor=E34F26)
+  ![CSS3](https://img.shields.io/badge/-CSS3-161b22?style=flat&logo=css3&logoColor=1572B6)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+- **Frameworks & Libraries:**<br>
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-161b22?style=flat&logo=springboot&logoColor=6DB33F)
+  ![Hibernate](https://img.shields.io/badge/-Hibernate-161b22?style=flat&logo=hibernate&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-161b22?style=flat&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/-Next.js-161b22?style=flat&logo=nextdotjs&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-161b22?style=flat&logo=tailwindcss&logoColor=06B6D4)
 
-**Databases**
+- **Databases:**<br>
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-161b22?style=flat&logo=postgresql&logoColor=4169E1)
+  ![MySQL](https://img.shields.io/badge/-MySQL-161b22?style=flat&logo=mysql&logoColor=4479A1)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- **Backend Concepts:**<br>
+  ![REST API](https://img.shields.io/badge/-REST%20API-161b22?style=flat&logo=swagger&logoColor=85EA2D)
+  ![JDBC](https://img.shields.io/badge/-JDBC-161b22?style=flat&logo=openjdk&logoColor=ED8B00)
+  ![Servlets](https://img.shields.io/badge/-Servlets%20%26%20JSP-161b22?style=flat&logo=apachetomcat&logoColor=F8DC75)
+  ![MVC](https://img.shields.io/badge/-MVC-161b22?style=flat&logo=spring&logoColor=6DB33F)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[SpotFix](https://github.com/harikesh9207?tab=repositories)** | Civic issue platform where citizens report, track and upvote local problems like road damage and water failures. Includes status filters, ward-level filtering and distance-based sorting. | Spring Boot · PostgreSQL · JPA/Hibernate · React · Next.js |
-| **[Dental Clinic Management System](https://github.com/harikesh9207?tab=repositories)** | Three-module system (Patient, Dentist, Appointment) that automates scheduling and records, with a normalized schema and strict MVC separation. | Java · JDBC · MySQL |
+- **Workflow & Build Tools:**<br>
+  ![Git](https://img.shields.io/badge/-Git-161b22?style=flat&logo=git&logoColor=F05032)
+  ![GitHub](https://img.shields.io/badge/-GitHub-161b22?style=flat&logo=github&logoColor=white)
+  ![Maven](https://img.shields.io/badge/-Maven-161b22?style=flat&logo=apachemaven&logoColor=C71A36)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-161b22?style=flat&logo=intellijidea&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-161b22?style=flat&logo=visualstudiocode&logoColor=007ACC)
+  ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-161b22?style=flat&logo=apachetomcat&logoColor=F8DC75)
 
 ---
 
-## 📊 GitHub Stats
+### ✅ Certifications
 
-<div align="center">
+- ![Anthropic](https://img.shields.io/badge/Anthropic-161b22?style=flat&logo=anthropic&logoColor=white)![AI Fluency](https://img.shields.io/badge/AI%20Fluency%3A%20Framework%20%26%20Foundations-7C3AED?style=flat) ![Date](https://img.shields.io/badge/07%2F2026-30363d?style=flat)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harikesh9207&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikesh9207&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages">
+---
 
-</div>
+### 🚀 Featured Projects
+
+- **[SpotFix](https://github.com/harikesh9207?tab=repositories)** · Civic issue reporting platform: report, track and upvote local issues with status, category and ward filters.<br>
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-161b22?style=flat&logo=springboot&logoColor=6DB33F)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-161b22?style=flat&logo=postgresql&logoColor=4169E1)
+  ![React](https://img.shields.io/badge/-React-161b22?style=flat&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/-Next.js-161b22?style=flat&logo=nextdotjs&logoColor=white)
+
+- **[Dental Clinic Management System](https://github.com/harikesh9207?tab=repositories)** · Patient, Dentist and Appointment modules with a normalized schema and strict MVC separation.<br>
+  ![Java](https://img.shields.io/badge/-Java-161b22?style=flat&logo=openjdk&logoColor=ED8B00)
+  ![JDBC](https://img.shields.io/badge/-JDBC-161b22?style=flat&logo=openjdk&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-161b22?style=flat&logo=mysql&logoColor=4479A1)
 
 ---
 
@@ -83,10 +92,7 @@ I'm a Java developer with about 2 years of hands-on experience building backend 
 
 ### 📫 Let's connect
 
-I'm open to Java backend opportunities. Feel free to reach out.
-
-**[LinkedIn](https://www.linkedin.com/in/harikesh-hari-687b44282)** · **[Email](mailto:harikeshhari009@gmail.com)**
-
-<sub>Thanks for stopping by ⭐</sub>
+<a href="https://www.linkedin.com/in/harikesh-hari-687b44282"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:harikeshhari009@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
