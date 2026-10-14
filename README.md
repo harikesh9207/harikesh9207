@@ -24,8 +24,8 @@
 
 - 💼 Java Developer at **diviso softtech**, about 2 years of experience
 - 🚀 Built **SpotFix**, a civic issue platform, from Spring Boot backend to React/Next.js frontend
-- 🎓 Working through **CS50x** from Harvard
-- 🌱 Learning Spring Security, JWT authentication and Docker
+- 🎓 Learning with **CS50x** (Harvard's online course)
+- 🌱 Improving C, Dart, JavaScript, JHipster, OpenAPI, PostGIS and Postman
 - 🤝 Open to Java backend roles and collaboration
 
 ---
@@ -35,10 +35,7 @@
 - **Languages:**<br>
   ![Java](https://img.shields.io/badge/-Java-161b22?style=flat&logo=openjdk&logoColor=ED8B00)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-161b22?style=flat&logo=typescript&logoColor=3178C6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=flat&logo=javascript&logoColor=F7DF1E)
   ![SQL](https://img.shields.io/badge/-SQL-161b22?style=flat&logo=postgresql&logoColor=4169E1)
-  ![HTML5](https://img.shields.io/badge/-HTML5-161b22?style=flat&logo=html5&logoColor=E34F26)
-  ![CSS3](https://img.shields.io/badge/-CSS3-161b22?style=flat&logo=css3&logoColor=1572B6)
 
 - **Frameworks & Libraries:**<br>
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-161b22?style=flat&logo=springboot&logoColor=6DB33F)
@@ -64,6 +61,27 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-161b22?style=flat&logo=intellijidea&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-161b22?style=flat&logo=visualstudiocode&logoColor=007ACC)
   ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-161b22?style=flat&logo=apachetomcat&logoColor=F8DC75)
+
+---
+
+### 🌱 Currently Learning & Improving
+
+- **Languages & Web:**<br>
+  ![C](https://img.shields.io/badge/-C-161b22?style=flat&logo=c&logoColor=A8B9CC)
+  ![Dart](https://img.shields.io/badge/-Dart-161b22?style=flat&logo=dart&logoColor=0175C2)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=flat&logo=javascript&logoColor=F7DF1E)
+  ![HTML5](https://img.shields.io/badge/-HTML5-161b22?style=flat&logo=html5&logoColor=E34F26)
+  ![CSS3](https://img.shields.io/badge/-CSS3-161b22?style=flat&logo=css3&logoColor=1572B6)
+
+- **Frameworks & API Tools:**<br>
+  ![JHipster](https://img.shields.io/badge/-JHipster-161b22?style=flat&logo=jhipster&logoColor=3E8ACC)
+  ![OpenAPI](https://img.shields.io/badge/-OpenAPI-161b22?style=flat&logo=openapiinitiative&logoColor=6BA539)
+  ![Postman](https://img.shields.io/badge/-Postman-161b22?style=flat&logo=postman&logoColor=FF6C37)
+
+- **Data:**<br>
+  ![PostGIS](https://img.shields.io/badge/-PostGIS-161b22?style=flat&logo=postgresql&logoColor=336791)
+
+- **Course:** 🎓 CS50x (Harvard's online course), in progress
 
 ---
 
